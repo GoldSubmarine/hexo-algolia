@@ -1,5 +1,7 @@
 # hexo-algolia [![Build Status][]][pkg-build] ![][pkg-downloads] ![][pkg-version]
 
+> fork from hexo-algolia,add content retrieval,remove html tags and reduce upload volume
+
 > Index content of your [hexo][] website in [Algolia][] and add search within minutes.
 
 `hexo-algolia` is an [hexo][] plugin provided by the community.
@@ -20,7 +22,7 @@ and on a continuous integration system like [Travis CI][-ci-node].
 ## Install
 
 ```bash
-$ npm install --save hexo-algolia
+$ npm install --save hexo-algolia-fix
 ```
 
 ## Public Facing Search Options
