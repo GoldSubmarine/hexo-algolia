@@ -1,4 +1,4 @@
-# hexo-algolia [![Build Status][]][pkg-build] ![][pkg-downloads] ![][pkg-version]
+# hexo-algolia-fix [![Build Status][]][pkg-build] ![][pkg-downloads] ![][pkg-version]
 
 > fork from hexo-algolia,add content retrieval,remove html tags and reduce upload volume
 
