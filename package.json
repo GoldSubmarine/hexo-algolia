@@ -1,6 +1,6 @@
 {
-  "name": "hexo-algolia",
-  "version": "1.3.1",
+  "name": "hexo-algolia-fix",
+  "version": "1.3.2",
   "description": "Index content of your hexo website in Algolia and add search within minutes.",
   "main": "index",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oncletom/hexo-algolia.git"
+    "url": "https://github.com/vinsoncho/hexo-algolia.git"
   },
   "engines": {
     "node": ">= 4.0.0"
@@ -23,18 +23,19 @@
     "search"
   ],
   "author": {
-    "name": "Boris Schapira",
-    "email": "borisschapira@gmail.com",
-    "url": "http://borisschapira.com"
+    "name": "vinsoncho",
+    "email": "997462392@qq.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oncletom/hexo-algolia/issues"
+    "url": "https://github.com/vinsoncho/hexo-algolia/issues"
   },
-  "homepage": "https://github.com/oncletom/hexo-algolia",
+  "homepage": "https://github.com/vinsoncho/hexo-algolia",
   "dependencies": {
     "algoliasearch": "^3.31.0",
-    "p-each-series": "^1.0.0"
+    "p-each-series": "^1.0.0",
+    "html-entities": "^1.2.1",
+    "striptags": "^3.1.1"
   },
   "devDependencies": {
     "eslint": "^4.19.1"
