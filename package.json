@@ -33,8 +33,9 @@
   "homepage": "https://github.com/vinsoncho/hexo-algolia",
   "dependencies": {
     "algoliasearch": "^3.31.0",
-    "p-each-series": "^1.0.0",
+    "flatted": "^2.0.1",
     "html-entities": "^1.2.1",
+    "p-each-series": "^1.0.0",
     "striptags": "^3.1.1"
   },
   "devDependencies": {
